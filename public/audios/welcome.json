@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "soundFile": "E:\\Lipsync_Project\\r3f-vite-starter\\public\\audios\\welcome.ogg",
+    "duration": 5.04
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.13, "value": "X" },
+    { "start": 0.13, "end": 0.43, "value": "D" },
+    { "start": 0.43, "end": 0.57, "value": "B" },
+    { "start": 0.57, "end": 0.96, "value": "X" },
+    { "start": 0.96, "end": 1.12, "value": "D" },
+    { "start": 1.12, "end": 1.20, "value": "B" },
+    { "start": 1.20, "end": 1.26, "value": "A" },
+    { "start": 1.26, "end": 1.31, "value": "B" },
+    { "start": 1.31, "end": 1.39, "value": "A" },
+    { "start": 1.39, "end": 1.55, "value": "B" },
+    { "start": 1.55, "end": 1.63, "value": "A" },
+    { "start": 1.63, "end": 2.08, "value": "B" },
+    { "start": 2.08, "end": 3.04, "value": "X" },
+    { "start": 3.04, "end": 3.16, "value": "C" },
+    { "start": 3.16, "end": 3.30, "value": "B" },
+    { "start": 3.30, "end": 3.44, "value": "F" },
+    { "start": 3.44, "end": 3.52, "value": "A" },
+    { "start": 3.52, "end": 3.58, "value": "B" },
+    { "start": 3.58, "end": 3.71, "value": "F" },
+    { "start": 3.71, "end": 3.80, "value": "A" },
+    { "start": 3.80, "end": 3.92, "value": "B" },
+    { "start": 3.92, "end": 3.99, "value": "C" },
+    { "start": 3.99, "end": 4.13, "value": "B" },
+    { "start": 4.13, "end": 5.04, "value": "X" }
+  ]
+}
